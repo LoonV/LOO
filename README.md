@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Veksu
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on idk
+- 🌱 I’m currently learning making mods to friday night funkin' Vs Sonic.exe source code goes brrrrrrrrrrrrrr
 - 📫 How to reach me when the when the
 
 <!---
