@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Veksu
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning making mods to friday night funkin' Vs Sonic.exe source code goes brrrrrrrrrrrrrr
-- 📫 How to reach me when the when the
+- 👋 Hi, I’m Loo!
+- 👀 I'm Pixel and Digital Artist
+- 🌱 Director for FNF' Infernal Demise, thats mostly while this acc exists lol
+- 📫 I should respond on twitter
 
 <!---
 Veksu/Veksu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
